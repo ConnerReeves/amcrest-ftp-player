@@ -1,0 +1,19 @@
+{
+  "name": "amcrest-ftp-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnerReeves/amcrest-ftp-player.git"
+  },
+  "author": "Conner Reeves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnerReeves/amcrest-ftp-player/issues"
+  },
+  "homepage": "https://github.com/ConnerReeves/amcrest-ftp-player#readme"
+}
